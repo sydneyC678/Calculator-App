@@ -4,5 +4,5 @@
 *Further adjustements needed
 
 <h1>Demo:</h1>
-![ calculator](calculator.png)
+<img src="/Calculator-App/calculator.png" width="128"/>
 
