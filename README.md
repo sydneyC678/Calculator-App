@@ -4,4 +4,5 @@
 *Further adjustements needed
 
 <h1>Demo:</h1>
-<img src = "calculator.png">
+![ calculator](https://github.com/sydneyC678/Calculator-App/assets/121634300/2ecc9cd0-a2f2-431d-9e13-fbbcf0cbd03b)
+
